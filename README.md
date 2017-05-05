@@ -1,3 +1,4 @@
+# 说明： these repository is forked from https://git.oschina.net/huangyong/rpc
 # 分布式 RPC 框架 - 使用说明
 
 当前版本：1.3.0
